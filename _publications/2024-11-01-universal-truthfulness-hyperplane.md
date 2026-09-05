@@ -3,7 +3,7 @@ title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
 category: conferences
 permalink: /publication/2024-11-01-universal-truthfulness-hyperplane
- Excerpt: 'We discover a universal truthfulness hyperplane inside large language models.'
+excerpt: 'We discover a universal truthfulness hyperplane inside large language models.'
 date: 2024-11-01
 venue: 'EMNLP 2024'
 paperurl: 'https://aclanthology.org/2024.emnlp-main.105'
