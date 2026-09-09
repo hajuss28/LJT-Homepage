@@ -12,27 +12,27 @@ site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic homepage"
+description              : &description "Junteng Liu's academic homepage: PhD candidate at HKUST NLP Group working on natural language processing and machine learning."
 url                      : https://hajuss28.github.io
 baseurl                  : ""
-repository               : "hajuss28/academicpages.github.io"
+repository               : "hajuss28/LJT-Homepage"
 
 # Site Author
 author:
   name             : "Junteng Liu"
   avatar           : "profile.png"
-  bio              : "First-year PhD candidate at HKUST NLP Group, working on natural language processing and machine learning."
+  bio              : "First-year PhD candidate at HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning, especially LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "Hong Kong University of Science and Technology"
-  uri              :
+  uri              : "https://hajuss28.github.io"
   email            : "jliugi@connect.ust.hk"
 
   # Academic websites
-  arxiv            :
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
-  semantic         :
-  pubmed           :
-  researchgate     :
+  semantic         : # URL
+  pubmed           : # URL
+  researchgate     : # URL
 
   # Repositories and software development
   github           : "Vicent0205"
