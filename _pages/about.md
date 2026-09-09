@@ -16,3 +16,13 @@ My research focuses on **natural language processing** and **machine learning**.
 - **LLM Truthfulness and Interpretability**
 
 I enjoy studying how large language models reason, how to improve their reliability, and how to understand the internal representations behind their behaviors.
+
+## Selected Publications
+
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+</ul>
+
+See the [publications page](/publications/) for the same mirrored publication list.
