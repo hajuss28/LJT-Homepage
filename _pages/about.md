@@ -15,8 +15,6 @@ My research focuses on **natural language processing** and **machine learning**.
 - **Hallucination in Vision-Language Models (VLMs)**
 - **LLM Truthfulness and Interpretability**
 
-I enjoy studying how large language models reason, how to improve their reliability, and how to understand the internal representations behind their behaviors.
-
 ## Publications
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — 2025, arXiv, first author.
@@ -25,5 +23,3 @@ I enjoy studying how large language models reason, how to improve their reliabil
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — ICML 2024, co-author.
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — NeurIPS 2023, co-author.
 - **Composing Parameter-Efficient Modules with Arithmetic Operations** — NeurIPS 2023, co-author.
-
-The full publication records are also listed on the [publications page](/publications/).
